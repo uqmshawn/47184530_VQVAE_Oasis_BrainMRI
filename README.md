@@ -1,4 +1,4 @@
-# COMP3710 Report - VQ-VAE (Brain MRI)
+# VQ-VAE (Brain MRI)
 ---
 # Table of Contents
 
